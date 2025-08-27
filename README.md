@@ -11,17 +11,16 @@ programa
 {
     funcao vazio TocarAlarme()
     {
-        escreva("Alarme tocando, levantar\n")
+        escreva("Alarme tocando\n")
     }
 
     funcao vazio PararAlarme()
     {
-        escreva("Alarme parado\n")
+        escreva("Parar Alarme\n")
     }
 
     funcao vazio RotinaPosAcordar()
     {
-        escreva("Abrir os olhos\n")
         escreva("Sentar na cama\n")
         escreva("Levantar da cama\n")
         escreva("Beber um copo de água\n")
